@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Machine Learning & Deep Learning",
+      "description": " Proficient in developing, training, and optimizing models for tasks such as classification, regression, and sequence tagging using frameworks like TensorFlow and PyTorch."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Natural Language Processing",
+      "description": "Skilled in building NLP solutions, including Named Entity Recognition (NER), sentiment analysis, and text classification using techniques like Bi-LSTM, CRF, and transformers."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Data Analysis & Visualization",
+      "description": "Expertise in processing and analyzing image data using OpenCV and deep learning models for applications like object detection and medical image analysis."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Image Processing & Computer Vision",
+      "description": "Experienced in analyzing and visualizing large datasets using tools like Pandas, NumPy, and Matplotlib to extract meaningful insights and drive data-driven decisions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Named Entity Recognition using Bi-LSTM-CRF",
+      "description": "Developed and fine-tuned Bi-LSTM and Bi-LSTM-CRF models for Named Entity Recognition (NER) on the CoNLL-2003 dataset. The Bi-LSTM-CRF model achieved an F1 score of ~83.8%, surpassing the benchmark F1 score of 84% from the reference study. This project demonstrated the ability to detect entities like names, locations, and organizations from unstructured text, showcasing the power of combining deep learning with structured tagging",
+      "link": "View In Github",
+      "url": "https://github.com/hoax12/BiLSTM-CRF-NER"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "AI-Powered Trichoscopy and Trichogram Analysis System",
+      "description": "Engineered a machine learning-based system for trichoscopy and trichogram analysis to assist dermatologists in diagnosing scalp conditions such as alopecia. The system, tested on over 400 images, accurately extracted key parameters like hair density and thickness, leading to a 20% improvement in diagnostic accuracy. Dermatologists validated the system, confirming its potential for real-world use in clinics",
+      "link": "View In Github",
+      "url": "https://github.com/hoax12/BiLSTM-CRF-NER"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Inventory Demand Forecasting System",
+      "description": "Designed and implemented an inventory demand forecasting system that helped a wholesaler optimize stock levels for over 1,000 products. Using historical sales data, the system predicted demand trends, leading to a 15% increase in sales by minimizing stockouts and overstock situations. This project involved building machine learning models, data preprocessing, and integrating them into a production environment using Python Flask.",
+      "link": "View In Github",
+      "url": "https://github.com/hoax12/BiLSTM-CRF-NER"
+    }
+  ]
+}
